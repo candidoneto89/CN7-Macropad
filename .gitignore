@@ -1,3 +1,5 @@
 *.zip
-PCBArt/
-Renders/
+3D/
+media/
+PCBs/old/
+resources/
