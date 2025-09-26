@@ -1,10 +1,9 @@
 # Stacked Acrylic 
-![Stacked Acrylic](docs/stackedAcrylic.png)
+![](https://github.com/candidoneto89/CN7-Macropad/blob/main/docs/stackedAcrylic.png)
 
 # Open Case 
-![Open Case](docs/openCase.png)
+![](https://github.com/candidoneto89/CN7-Macropad/blob/main/docs/openCase.png)
 
 # Closed Case 
-![Closed Case](docs/closedCase.png)
-
+![](https://github.com/candidoneto89/CN7-Macropad/blob/main/docs/closedCase.png)
 
