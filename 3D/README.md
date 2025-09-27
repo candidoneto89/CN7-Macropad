@@ -12,7 +12,7 @@ Open case:
 
 Closed case:
 - 4x M2 threaded inserts
-- 3x M2x10mm screw
+- 4x M2x10mm screw
 - 1x 27x44x3mm acrylic sheet
 - 1x 84x78x3mm acrylic sheet
 
